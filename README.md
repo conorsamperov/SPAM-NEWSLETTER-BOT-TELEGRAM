@@ -1,4 +1,4 @@
-# Telegram FloodBot
+# Telegram FloodBot (readme потом перепишу так, что сильно не пинайте кто любит красивые текста)
 **Author:** @conorxz
 **Status:** «сделал не парясь, работает — и ладно»
 
